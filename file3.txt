@@ -1,1 +1,2 @@
 ini text dari file3.txt
+ini tulisa dari master branch
